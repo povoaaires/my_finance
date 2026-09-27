@@ -208,6 +208,8 @@ tempCodeRunnerFile.py
 
 # PyPI configuration file
 .pypirc
+.my_finance_bot/
+*.xlsx
 
 # Marimo
 marimo/_static/
