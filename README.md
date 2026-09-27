@@ -47,3 +47,8 @@ uv run pytest -q tests\test_excel.py
 ```
 
 O teste com Excel copia a planilha para uma pasta temporária e não modifica o original. A integração real com Telegram e OpenAI depende das credenciais configuradas no computador.
+
+
+## Case
+<img width="721" height="428" alt="image" src="https://github.com/user-attachments/assets/1a45fedb-c9b7-42fe-b88b-f940cb4f4ece" />
+
